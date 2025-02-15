@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-A young person who is passionate about exploration.
-
 <p>
 	<img alt="Rust"
          src="https://img.shields.io/badge/-Rust-F9A03C?style=flat-square&logo=Rust&logoColor=white"/>
