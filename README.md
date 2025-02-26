@@ -1,29 +1,26 @@
-## Hi there 👋
+### Hi there 👋
 
 <p>
+
 	<img alt="Rust"
-         src="https://img.shields.io/badge/-Rust-F9A03C?style=flat-square&logo=Rust&logoColor=white"/>
-    <img alt="Java"
-         src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=Java&logoColor=white"/>            
-	<img alt="Golang"
-         src="https://img.shields.io/badge/-Golang-5849BE?style=flat-square&logo=Go&logoColor=white"/>
-    <img alt="Python"
-         src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=white"/>
+	     src="https://img.shields.io/badge/-Rust-F9A03C?style=flat-square&logo=Rust&logoColor=white"/>
+	<img alt="Java"
+	     src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=Java&logoColor=white"/>            
+	<img alt="Python"
+	     src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=white"/>
 	<img alt="TypeScript"
-         src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-    <img alt="Docker"
-         src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
-    <img alt="git"
-         src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-    <img alt="JavaScript"
-         src="https://img.shields.io/badge/-JavaScript-DD0031?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img alt="Spring"
-         src="https://img.shields.io/badge/-Spring%20Cloud-43853d?style=flat-square&logo=spring&logoColor=white"/>
+	     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+	<img alt="Docker"
+	     src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
+	<img alt="JavaScript"
+	     src="https://img.shields.io/badge/-JavaScript-DD0031?style=flat-square&logo=JavaScript&logoColor=white"/>
+	<img alt="SpringCloud"
+	     src="https://img.shields.io/badge/-Spring%20Cloud-43853d?style=flat-square&logo=spring&logoColor=white"/>
 </p>
 
-### Contact Me
+📫 How to reach me: ...
 
-- Gmail: xiaoyi5096@gmail.com
+    - Mail:  xiaoyi5096@163.com
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YQJWXZ&show_icons=true&count_private=true&theme=vue-dark"/>
